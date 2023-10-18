@@ -23,8 +23,8 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "810-1dc8a57b-migrate-terraform-state-to-terraform"
-  location = "South Central US"
+  name     = "811-9f409b0b-provide-continuous-delivery-with-gith"
+  location = "West US"
 
 }
 
